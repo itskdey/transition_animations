@@ -1,4 +1,4 @@
-# Flutter Advanced Transition Animations
+# Flutter Advanced Transition Animations For Navigator
 
 A professional, high-performance collection of custom page transitions for Flutter applications. This project provides a robust and easy-to-use utility for implementing modern, fluid animations that enhance the user experience.
 
@@ -85,4 +85,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-*Created with ❤️ for the Flutter community.*
+*Created with ❤️ by Mean Pheakdey.*
