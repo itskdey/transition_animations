@@ -1,4 +1,4 @@
-# 🎬 Flutter Advanced Transition Animations
+# Flutter Transition Animations
 
 > *A documentary-style guide to implementing professional, cinematic page transitions in Flutter.*
 
@@ -202,4 +202,3 @@ PageTransition.build(
 
 This project is open-source and available under the MIT License.
 
-*Documented with ❤️ by Mean Pheakdey.*
