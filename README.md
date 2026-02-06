@@ -1,6 +1,8 @@
 # Flutter Transition Animations
 
-> *A documentary-style guide to implementing professional, cinematic page transitions in Flutter.*
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitskdey%2Ftransition_animations&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![GitHub stars](https://img.shields.io/github/stars/itskdey/transition_animations?style=social)](https://github.com/itskdey/transition_animations/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/itskdey/transition_animations?style=social)](https://github.com/itskdey/transition_animations/network/members)
 
 Welcome to the **Transition Animations** usage guide. This documentation is designed to take you on a step-by-step journey through integrating high-quality, custom page transitions into your Flutter application. Whether you need a subtle fade or a complex iOS-style parallax push, this project provides the robust tools to make it happen.
 
@@ -195,10 +197,3 @@ PageTransition.build(
   circleRevealCenter: const Offset(0.9, 0.9), // Bottom-right corner
 );
 ```
-
----
-
-## � License
-
-This project is open-source and available under the MIT License.
-
