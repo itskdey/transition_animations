@@ -4,7 +4,7 @@ import 'package:transition_animation/routes/page_transition.dart';
 import 'package:transition_animation/screens/screen1.dart';
 import 'package:transition_animation/screens/screen2.dart';
 
-class ProPageRoutes {
+class PageRoutes {
   static Route<dynamic> onGenerateRoute(RouteSettings settings) {
     switch (settings.name) {
       case AppRoutes.screen1:
@@ -18,8 +18,7 @@ class ProPageRoutes {
         return PageTransition.build(
           page: Screen2(),
           settings: settings,
-          transition: PageTransitionType.iosPushParallax,
-          duration: Duration(milliseconds: 500),
+          transition: PageTransitionType.fade,
         );
 
       default:
